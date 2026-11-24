@@ -52,7 +52,7 @@ Data is persisted in a MySQL database using Hibernate ORM, while profile images 
 
 | Home Screen | Chat Interface | Contacts | Sign In |
 | :---: | :---: | :---: | :---: |
-| <img src="assets/home-screen.png" alt="Home"> | <img src="assets/chat-send-message.png" alt="Chat"> | <img src="assets/contacts-screen.png" alt="Contacts"> | <img src="assets/sign-in-login-page.png" alt="Sign In"> |
+| <img src="assets/home-screen.png" alt="Home"> | <img src="assets/chat-send-message.png" alt="Chat"> | <img src="assets/contacts-screen.png" alt="Contacts"> | <img src="assets/sign-in-login.png" alt="Sign In"> |
 
 ## 🗄️ Database Schema
 
